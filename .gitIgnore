@@ -1,0 +1,16 @@
+# Arquivos do IntelliJ
+.idea/
+*.iml
+*.iws
+out/
+
+# Arquivos do Windows/Mac
+desktop.ini
+.DS_Store
+
+# Arquivos compilados do Java
+*.class
+
+# Outros diretórios de build (se for usar Maven/Gradle no futuro)
+target/
+build/
