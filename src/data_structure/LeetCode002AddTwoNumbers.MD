@@ -42,3 +42,5 @@ Não são resetados a cada iteração:
 - Fora do loop
     - verificamos se o carry carrega algum valor > 0, se sim, criamos um novo nó e atribuímos o carry ao val do novo nó;
     - retornamos o primeiro item da lista.
+
+#### Complexidade O(n)
