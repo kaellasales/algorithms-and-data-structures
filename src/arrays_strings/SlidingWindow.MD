@@ -7,7 +7,7 @@ Sliding Window ou, traduzindo para o portugues, Janela deslizante, é uma janela
 - Características de substring/subarray contínuo
 
 ### LeetCode003Substring 
-A questão solicita que o usuário retorne o tamanho daq maior substring que não possui caracteres repetidos.
+A questão solicita que o usuário retorne o tamanho da maior substring que não possui caracteres repetidos.
 
 #### Resolução
 _int max_ -> armazena o tamanho da maior substing;  

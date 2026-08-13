@@ -1,4 +1,4 @@
-package data_structure;
+package arrays_strings.leetcode;
 import java.util.HashMap;
 public class LeetCode003Substring {
     public int lengthOfLongestSubstring(String s) {
