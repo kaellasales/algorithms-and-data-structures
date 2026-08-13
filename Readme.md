@@ -1,6 +1,15 @@
-# Data Structures and Algorithms
+# Estruturas de Dados e Algoritmos
 
-Personal laboratory for study of Data Structures, Algorithms, and Time/Space Complexity.
+Laboratório pessoal para estudo de Estruturas de Dados, Algoritmos e Complexidade de Tempo e Espaço.
 
-## Current Topics
-- [x] Complexity Analysis (Big O)
+## Tópicos
+
+* [x] Análise de Complexidade (Big O)
+* [x] Arrays e Strings
+
+    * Sliding Window
+* [ ] Linked Lists — **estudando atualmente**
+
+## Exercícios
+
+Os exercícios e implementações estão organizados por tópico, incluindo problemas do LeetCode e implementações próprias em Java.
